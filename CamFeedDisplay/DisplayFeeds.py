@@ -36,7 +36,7 @@ def get_open_screen_sessions():
 	'''Returns the names of all currently open screen sessions'''
 	print 'Checking for open screens...'
 	screen_names = []
-	for screen in subprocess.check_output('ls /var/run/screen/S-*/*',shell=True).split('\n'):
+	for screen in subprocess.check_output('ls /var/run/screen/S-*/',shell=True).split('\n'):
 		if len(screen) > 0:
 			screen_names.append(screen.split('.')[-1])
 	return screen_names
