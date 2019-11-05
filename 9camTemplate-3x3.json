@@ -1,0 +1,85 @@
+{
+	"feeds":[
+		{
+			"feed-name":"[Camera Feed Name]",
+			"display-name":"[Display Name]",
+			"rtsp-uri":"[RTSP Stream ID (rtsp://ip/uid)]",
+			"width":"640",
+			"height":"360",
+			"x-position":"0",
+			"y-position":"0"
+		},
+		{
+			"feed-name":"[Camera Feed Name]",
+			"display-name":"[Display Name]",
+			"rtsp-uri":"[RTSP Stream ID (rtsp://ip/uid)]",
+			"width":"640",
+			"height":"360",
+			"x-position":"640",
+			"y-position":"0"
+		},
+		{
+			"feed-name":"[Camera Feed Name]",
+			"display-name":"[Display Name]",
+			"rtsp-uri":"[RTSP Stream ID (rtsp://ip/uid)]",
+			"width":"640",
+			"height":"360",
+			"x-position":"1280",
+			"y-position":"0"
+		},
+		{
+			"feed-name":"[Camera Feed Name]",
+			"display-name":"[Display Name]",
+			"rtsp-uri":"[RTSP Stream ID (rtsp://ip/uid)]",
+			"width":"640",
+			"height":"360",
+			"x-position":"0",
+			"y-position":"360"
+		},
+		{
+			"feed-name":"[Camera Feed Name]",
+			"display-name":"[Display Name]",
+			"rtsp-uri":"[RTSP Stream ID (rtsp://ip/uid)]",
+			"width":"640",
+			"height":"360",
+			"x-position":"640",
+			"y-position":"360"
+		},
+		{
+			"feed-name":"[Camera Feed Name]",
+			"display-name":"[Display Name]",
+			"rtsp-uri":"[RTSP Stream ID (rtsp://ip/uid)]",
+			"width":"640",
+			"height":"360",
+			"x-position":"1280",
+			"y-position":"360"
+		},
+		{
+			"feed-name":"[Camera Feed Name]",
+			"display-name":"[Display Name]",
+			"rtsp-uri":"[RTSP Stream ID (rtsp://ip/uid)]",
+			"width":"640",
+			"height":"360",
+			"x-position":"0",
+			"y-position":"720"
+		},
+		{
+			"feed-name":"[Camera Feed Name]",
+			"display-name":"[Display Name]",
+			"rtsp-uri":"[RTSP Stream ID (rtsp://ip/uid)]",
+			"width":"640",
+			"height":"360",
+			"x-position":"640",
+			"y-position":"720"
+		},
+		{
+			"feed-name":"[Camera Feed Name]",
+			"display-name":"[Display Name]",
+			"rtsp-uri":"[RTSP Stream ID (rtsp://ip/uid)]",
+			"width":"640",
+			"height":"360",
+			"x-position":"1280",
+			"y-position":"720"
+		}
+	]
+}

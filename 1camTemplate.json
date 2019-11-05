@@ -1,0 +1,13 @@
+{
+	"feeds":[
+		{
+			"feed-name":"[Camera Feed Name]",
+			"display-name":"[Display Name]",
+			"rtsp-uri":"[RTSP Stream ID (rtsp://ip/uid)]",
+			"width":"1920",
+			"height":"1080",
+			"x-position":"0",
+			"y-position":"0"
+		}
+	]
+}

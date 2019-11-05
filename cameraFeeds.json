@@ -1,0 +1,58 @@
+{
+	"feeds":[
+		{
+			"feed-name":"TopLeft",
+			"display-name":"Reception",
+			"rtsp-uri":"rtsp://10.109.1.3:7447/58d0a2b6132e5015e19e9712_2",
+			"width":"1280",
+			"height":"720",
+			"x-position":"0",
+			"y-position":"0"
+		},
+		{
+			"feed-name":"TopRight",
+			"display-name":"Front South",
+			"rtsp-uri":"rtsp://10.109.1.3:7447/58d688bd132e8c5d29f71bbd_2",
+			"width":"640",
+			"height":"360",
+			"x-position":"1280",
+			"y-position":"0"
+		},
+		{
+			"feed-name":"CenterRight",
+			"display-name":"Front North",
+			"rtsp-uri":"rtsp://10.109.1.3:7447/58d686a1132e8c5d29f71a42_2",
+			"width":"640",
+			"height":"360",
+			"x-position":"1280",
+			"y-position":"360"
+		},
+		{
+			"feed-name":"BottomLeft",
+			"display-name":"Rear South",
+			"rtsp-uri":"rtsp://10.109.1.3:7447/58e166ad132e36964ac44083_2",
+			"width":"640",
+			"height":"360",
+			"x-position":"0",
+			"y-position":"720"
+		},
+		{
+			"feed-name":"BottomCenter",
+			"display-name":"Rear North",
+			"rtsp-uri":"rtsp://10.109.1.3:7447/58e15a7d132e36964ac42c1f_2",
+			"width":"640",
+			"height":"360",
+			"x-position":"640",
+			"y-position":"720"
+		},
+		{
+			"feed-name":"BottomRight",
+			"display-name":"Conference Room",
+			"rtsp-uri":"rtsp://10.109.1.3:7447/58d0a2b6132e5015e19e9714_2",
+			"width":"640",
+			"height":"360",
+			"x-position":"1280",
+			"y-position":"720"
+		}
+	]
+}
